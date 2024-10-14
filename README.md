@@ -1,2 +1,2 @@
 # Teoría y práctica musical
-Hace rato que tengo ganas de aprender de composición musical, y sumado a que ya me pudrí del proyecto en el que estaba trabajando anteriormente, le voy a dedicar mis esfuerzos y energías a hacer algo que me guste más, porque la vida es una sóla. 
+Hace rato que tengo ganas de aprender de composición musical, y sumado a que ya me pudrí del proyecto en el que estaba trabajando anteriormente, le voy a dedicar mis esfuerzos y energías a hacer algo que me guste más, porque la vida es una sóla.                           
