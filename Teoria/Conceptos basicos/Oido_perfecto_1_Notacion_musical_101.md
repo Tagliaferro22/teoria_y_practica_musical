@@ -1,0 +1,8 @@
+- Sonido: El sonido es vibración. El movimiento del aire produce vibraciones que estimulan el oído humano.
+- Tono: El tono mide que tan grave o agudo es el sonido. Las ondas de sonido se pueden medir en vibraciones por segundo (Hz), el número de estas vibraciones determina el tono. Cuantas más vibraciones por segundo, más agudo el sonido, y mientras menos, más grave será. 
+El tono se puede representar simbolicamente mediante notas, colocadas adecuadamente en lo que se acuerda es el pentagrama musical. 
+![Imagen del pentagrama musical](../../imagenes/teoria/conceptos_basicos/Pentagrama-musical-1024x672.webp) 
+Cuanto más baja esté la nota en el pentagrama, más grave será su tono, y viceversa. 
+
+- Alfabeto musical: Las notas musicales son el nombre propio de los sonidos. Se les conoce cómo: "Do", "Re", "Mi", "Fa", "Sol", "La" y "Si". Siempre están en ese orden consecutivo, formando un ciclo de 7 notas que se repite, volviendo a comenzar en el mismo orden. Tenemos estos ciclos entonces: [Do, re, mi, fa, sol, la si], [Re, mi, fa, sol, la, si, do], [Mi, fa, sol, la, si, do, re], [Fa, sol, la, si, do, re, mi], [Sol, la, si, do, re, mi, fa], [La, si, do, re, mi, fa, sol], [Si, do, re, mi, fa, sol, la].
+    - Nota: El alfabeto musical sigue las primeras 7 letras del alfabeto / abecedario convencional, desde la A hasta la G, con la diferencia de que la A no es Do, sino que es La. [La (A), Si (B), Do (C), Re (D), Mi (E), Fa (F), Sol (G)]
